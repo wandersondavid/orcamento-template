@@ -19,7 +19,17 @@
   },
   {
     "categoria": "Desejos",
-    "percentual": 20
+    "percentual": 20,
+    "subCategories": [
+      {
+        "categoria": "Viagem",
+        "percentual": 50
+      },
+      {
+        "categoria": "Carro",
+        "percentual": 50
+      }
+    ]
   },
   {
     "categoria": "Educação",
