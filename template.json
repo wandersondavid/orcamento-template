@@ -1,0 +1,28 @@
+[
+  {
+    "categoria": "Essenciais",
+    "percentual": 50
+  },
+  {
+    "categoria": "Investimentos",
+    "percentual": 25,
+    "subCategories": [
+      {
+        "categoria": "Reserva de Emergência",
+        "percentual": 50
+      },
+      {
+        "categoria": "Patrimônio",
+        "percentual": 50
+      }
+    ]
+  },
+  {
+    "categoria": "Desejos",
+    "percentual": 20
+  },
+  {
+    "categoria": "Educação",
+    "percentual": 5
+  }
+]
