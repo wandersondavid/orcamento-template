@@ -23,11 +23,11 @@
     "subCategories": [
       {
         "categoria": "Viagem",
-        "percentual": 50
+        "percentual": 35
       },
       {
         "categoria": "Carro",
-        "percentual": 50
+        "percentual": 65
       }
     ]
   },
